@@ -1,0 +1,255 @@
+1665660375553	geckodriver	INFO	Listening on 127.0.0.1:57193
+1665660378629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiletACGaY"
+1665660378966	Marionette	INFO	Marionette enabled
+1665660378971	Marionette	INFO	Listening on port 57223
+Read port: 57223
+1665660379051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiletACGaY\\search.json.mozlz4", (void 0)))
+1665660380950	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1665660382688	Marionette	INFO	Stopped listening on port 57223
+1665834493643	geckodriver	INFO	Listening on 127.0.0.1:49887
+1665834496733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4noxqo"
+1665834497105	Marionette	INFO	Marionette enabled
+1665834497110	Marionette	INFO	Listening on port 49902
+Read port: 49902
+1665834497503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4noxqo\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1665834501830	Marionette	INFO	Stopped listening on port 49902
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665835028824	geckodriver	INFO	Listening on 127.0.0.1:51582
+1665835031884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilesHX9xz"
+1665835032266	Marionette	INFO	Marionette enabled
+1665835032270	Marionette	INFO	Listening on port 51594
+Read port: 51594
+1665835032990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilesHX9xz\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1665835039805	Marionette	INFO	Stopped listening on port 51594
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665835097319	geckodriver	INFO	Listening on 127.0.0.1:51731
+1665835100399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2Q8vbi"
+1665835100772	Marionette	INFO	Marionette enabled
+1665835100775	Marionette	INFO	Listening on port 51744
+Read port: 51744
+1665835101059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2Q8vbi\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1665835105551	Marionette	INFO	Stopped listening on port 51744
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665835110577	geckodriver	INFO	Listening on 127.0.0.1:51845
+1665835113668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilej6WWTI"
+1665835114036	Marionette	INFO	Marionette enabled
+1665835114039	Marionette	INFO	Listening on port 51857
+Read port: 51857
+1665835114376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilej6WWTI\\search.json.mozlz4", (void 0)))
+1665835117482	Marionette	INFO	Stopped listening on port 51857
+1665835820994	geckodriver	INFO	Listening on 127.0.0.1:60195
+1665835824044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileKA0AeD"
+1665835824407	Marionette	INFO	Marionette enabled
+1665835824411	Marionette	INFO	Listening on port 60220
+Read port: 60220
+1665835825228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileKA0AeD\\search.json.mozlz4", (void 0)))
+1665835826959	Marionette	INFO	Stopped listening on port 60220
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+1665835835177	geckodriver	INFO	Listening on 127.0.0.1:52391
+1665835838263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNK61oJ"
+1665835838627	Marionette	INFO	Marionette enabled
+1665835838633	Marionette	INFO	Listening on port 52403
+Read port: 52403
+1665835838973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNK61oJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665835843673	Marionette	INFO	Stopped listening on port 52403
+1665835957943	geckodriver	INFO	Listening on 127.0.0.1:52473
+1665835961001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile8zVK1L"
+1665835961351	Marionette	INFO	Marionette enabled
+1665835961355	Marionette	INFO	Listening on port 52486
+Read port: 52486
+1665835961699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile8zVK1L\\search.json.mozlz4", (void 0)))
+1665835964030	Marionette	INFO	Stopped listening on port 52486
+1665835983840	geckodriver	INFO	Listening on 127.0.0.1:52528
+1665835986927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3mdrQT"
+1665835987294	Marionette	INFO	Marionette enabled
+1665835987299	Marionette	INFO	Listening on port 52540
+Read port: 52540
+1665835987652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3mdrQT\\search.json.mozlz4", (void 0)))
+1665835989854	Marionette	INFO	Stopped listening on port 52540
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1665836182452	geckodriver	INFO	Listening on 127.0.0.1:57437
+1665836185513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileGtIVQ0"
+1665836185894	Marionette	INFO	Marionette enabled
+1665836185899	Marionette	INFO	Listening on port 57449
+Read port: 57449
+1665836186253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileGtIVQ0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1665836190579	Marionette	INFO	Stopped listening on port 57449
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 10416, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1665836425851	geckodriver	INFO	Listening on 127.0.0.1:57586
+1665836428921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile0mQURP"
+1665836429297	Marionette	INFO	Marionette enabled
+1665836429301	Marionette	INFO	Listening on port 57598
+Read port: 57598
+1665836430031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile0mQURP\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1665836433688	Marionette	INFO	Stopped listening on port 57598
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665836440371	geckodriver	INFO	Listening on 127.0.0.1:57693
+1665836443442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileoHqJb9"
+1665836443813	Marionette	INFO	Marionette enabled
+1665836443817	Marionette	INFO	Listening on port 57706
+Read port: 57706
+1665836444153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileoHqJb9\\search.json.mozlz4", (void 0)))
+1665836446721	Marionette	INFO	Stopped listening on port 57706
+1665996949592	geckodriver	INFO	Listening on 127.0.0.1:55450
+1665996952685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexGrZfn"
+1665996953063	Marionette	INFO	Marionette enabled
+1665996953068	Marionette	INFO	Listening on port 55484
+Read port: 55484
+1665996953257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexGrZfn\\search.json.mozlz4", (void 0)))
+1665996955192	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1665996960044	Marionette	INFO	Stopped listening on port 55484
+1665997001389	geckodriver	INFO	Listening on 127.0.0.1:60681
+1665997004451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7Niysv"
+1665997004813	Marionette	INFO	Marionette enabled
+1665997004819	Marionette	INFO	Listening on port 60693
+Read port: 60693
+1665997005035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7Niysv\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js, line 1: unreachable code after return statement
+1665997011888	Marionette	INFO	Stopped listening on port 60693
+1665998118162	geckodriver	INFO	Listening on 127.0.0.1:60315
+1665998121208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileBRKWhl"
+1665998121838	Marionette	INFO	Marionette enabled
+1665998121846	Marionette	INFO	Listening on port 60347
+Read port: 60347
+1665998122000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileBRKWhl\\search.json.mozlz4", (void 0)))
+1665998124915	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1665998127259	Marionette	INFO	Stopped listening on port 60347
+1666053361426	geckodriver	INFO	Listening on 127.0.0.1:52145
+1666053364504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHFWG92"
+1666053364908	Marionette	INFO	Marionette enabled
+1666053364913	Marionette	INFO	Listening on port 52169
+Read port: 52169
+1666053365643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHFWG92\\search.json.mozlz4", (void 0)))
+1666053366942	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666053369547	Marionette	INFO	Stopped listening on port 52169
+1666054056216	geckodriver	INFO	Listening on 127.0.0.1:54495
+1666054059276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilev27r1z"
+1666054059653	Marionette	INFO	Marionette enabled
+1666054059658	Marionette	INFO	Listening on port 54507
+Read port: 54507
+1666054060440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilev27r1z\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js, line 1: unreachable code after return statement
+1666054069663	Marionette	INFO	Stopped listening on port 54507
+1666054347021	geckodriver	INFO	Listening on 127.0.0.1:54771
+1666054350070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilegOUsv9"
+1666054350452	Marionette	INFO	Marionette enabled
+1666054350457	Marionette	INFO	Listening on port 54783
+Read port: 54783
+1666054350745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilegOUsv9\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666059701812	Marionette	INFO	Stopped listening on port 54783
+js/fundsearch/script.js, line 1: unreachable code after return statement
+1666054515549	Marionette	INFO	Stopped listening on port 63343
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666054613844	geckodriver	INFO	Listening on 127.0.0.1:63402
+1666054616917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePfxaSy"
+1666054617244	Marionette	INFO	Marionette enabled
+1666054617248	Marionette	INFO	Listening on port 63414
+Read port: 63414
+1666054617323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePfxaSy\\search.json.mozlz4", (void 0)))
+1666054619374	Marionette	INFO	Stopped listening on port 63414
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666054845628	geckodriver	INFO	Listening on 127.0.0.1:59861
+1666054848708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7dpoEo"
+1666054849052	Marionette	INFO	Marionette enabled
+1666054849056	Marionette	INFO	Listening on port 59873
+Read port: 59873
+1666054849273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7dpoEo\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1666054852132	Marionette	INFO	Stopped listening on port 59873
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+1666054881354	geckodriver	INFO	Listening on 127.0.0.1:59916
+1666054884414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileAHjmfP"
+1666054884745	Marionette	INFO	Marionette enabled
+1666054884749	Marionette	INFO	Listening on port 59930
+Read port: 59930
+1666054884824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileAHjmfP\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666054888045	Marionette	INFO	Stopped listening on port 59930
+1666055193156	geckodriver	INFO	Listening on 127.0.0.1:60004
+1666055196215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexabPY6"
+1666055196556	Marionette	INFO	Marionette enabled
+1666055196561	Marionette	INFO	Listening on port 60017
+Read port: 60017
+1666055196769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexabPY6\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js, line 1: unreachable code after return statement
+1666055199038	Marionette	INFO	Stopped listening on port 60017
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666055365622	geckodriver	INFO	Listening on 127.0.0.1:64787
+1666055368678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileUWNFWO"
+1666055369015	Marionette	INFO	Marionette enabled
+1666055369021	Marionette	INFO	Listening on port 64799
+Read port: 64799
+1666055369229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileUWNFWO\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js, line 1: unreachable code after return statement
+1666055378699	Marionette	INFO	Stopped listening on port 64799
+1666056431501	geckodriver	INFO	Listening on 127.0.0.1:62812
+1666056434558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7hjpEF"
+1666056434928	Marionette	INFO	Marionette enabled
+1666056434932	Marionette	INFO	Listening on port 62825
+Read port: 62825
+1666056435134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7hjpEF\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js, line 1: unreachable code after return statement
+1666056439028	Marionette	INFO	Stopped listening on port 62825
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

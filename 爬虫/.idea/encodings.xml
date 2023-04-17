@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/csv学习/bokeyuan.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/csv学习/stu.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/csv学习/txkt.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/csv学习/weibo.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/csv学习/慧聪.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/csv学习/腾讯课堂.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/爬虫练习/flxsw.csv" charset="GBK" />
+  </component>
+</project>
